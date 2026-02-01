@@ -3,21 +3,6 @@
 Cyclops is a Python CLI app for tracking your gym lifts.
 Log bench, squat, and deadlift, track PRs, see averages, and generate progress graphs — all locally, no accounts or cloud storage required.
 
-📂 Project Structure
-cyclops/
-├── bench/
-│   ├── tracker.py    # Script to log bench records
-│   └── data.json     # Stores bench lift history
-├── squat/
-│   ├── tracker.py    # Script to log squat records
-│   └── data.json     # Stores squat lift history
-├── deadlift/
-│   ├── tracker.py    # Script to log deadlift records
-│   └── data.json     # Stores deadlift lift history
-├── dashboard.py      # Master dashboard showing all lifts
-├── run.sh            # CLI launcher for Cyclops
-└── README.md         # This file
-
 🚀 Features
 
 Log lifts: bench, squat, deadlift
