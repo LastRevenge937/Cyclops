@@ -33,7 +33,7 @@ pip install matplotlib
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/cyclops.git
+git clone https://github.com/LastRevenge937/Cyclops.git
 cd cyclops
 
 
